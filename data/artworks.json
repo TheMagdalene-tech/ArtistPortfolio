@@ -1,1 +1,18 @@
-
+[
+{
+"title":"Stone Figure",
+"year":"2023",
+"medium":"Marble",
+"size":"80cm",
+"category":"sculpture",
+"image":"images/sculptures/sculpture1.jpg"
+},
+{
+"title":"Human Gesture",
+"year":"2024",
+"medium":"Charcoal",
+"size":"A3",
+"category":"sketch",
+"image":"images/sketches/sketch1.jpg"
+}
+]
